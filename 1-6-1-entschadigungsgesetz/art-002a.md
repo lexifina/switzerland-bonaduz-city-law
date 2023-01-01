@@ -1,0 +1,4 @@
+# Art. 2a Entschädigung für zusätzliche Projektarbeit und besondere Aufträge
+1 Um aufwändige Projektarbeit oder besondere Aufträge zu entschädigen, welche die übliche Arbeitslast von Vorstandsmitgliedern übersteigen, steht dem Gemeindevorstand zusätzlich zur Entschädigung nach Art. 1 und 2 ein Kredit zur Verfügung, welcher dem Betrag für eine Anstellung im Umfang von 30% entspricht.
+2 Innerhalb dieses Kredits kann der Gemeindevorstand bei Bedarf dem Gemeindepräsidium oder weiteren Vorstandsmitgliedern eine zusätzliche Entschädigung für aufwändige Projektarbeit oder besondere Aufträge zusprechen. Er legt dabei den Umfang und die Dauer für die jeweilige Projektarbeit bzw. den jeweiligen Auftrag fest.
+3 Über eine Erhöhung oder Verlängerung entscheidet der Gemeindevorstand, sofern der Kredit eingehalten wird.
