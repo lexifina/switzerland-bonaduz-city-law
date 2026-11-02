@@ -1,0 +1,5 @@
+key,label,kind,title,enacted,published,in_force_days,commits,url
+crs-beschluss-2005-03-07,"CRS, Beschluss vom 2005-03-07",law,Gemeindeverfassung,2005-03-07,,,0,
+crs-beschluss-2008-03-30,"CRS, Beschluss vom 2008-03-30",law,"Änderung vom 30.03.2008 (CRS, Beschluss vom 2008-03-30)",2008-03-30,,,0,
+crs-beschluss-2022-11-27,"CRS, Beschluss vom 2022-11-27",law,"Änderung vom 27.11.2022 (CRS, Beschluss vom 2022-11-27)",2022-11-27,,,0,
+crs-2025-03,CRS 2025-03,law,"Gemeindeverfassung, Teilrevision (Aufhebung von Artikel 22)",2025-11-30,2026-01-01,2026-01-01,1,https://bonaduz.tlex.ch/api/de/change_documents/file_dictionaries/8/pdf_file

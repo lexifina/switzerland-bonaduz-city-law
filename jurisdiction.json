@@ -1,0 +1,11 @@
+{
+  "path": "ch-gr-bonaduz",
+  "code": "CH-GR-BONADUZ",
+  "name": "Bonaduz (city)",
+  "level": "municipality",
+  "parent": "ch-gr",
+  "repo": "https://github.com/lexifina/switzerland-bonaduz-city-law",
+  "build": "built: Gemeindeordnung and municipal enactments (1 acts, 2 versions) from the SRS",
+  "language": "de",
+  "sources": 1
+}

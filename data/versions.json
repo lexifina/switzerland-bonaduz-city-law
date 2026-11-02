@@ -1,0 +1,25 @@
+{
+ "country": "CH-GR-BONADUZ",
+ "acts": [
+  {
+   "slug": "1-1-1",
+   "short": "SRS 1.1-1",
+   "title": "Gemeindeverfassung",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/1.1-1",
+   "versions": [
+    {
+     "from": "2022-11-27",
+     "units": 56,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/1.1-1/versions/93",
+     "sha256": "f61c805791e665a4e3d2dadbbfbf6f90c55242a4dc5218a0000067f7ed20af94"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 56,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/1.1-1",
+     "sha256": "fb5d69ace886cae328d5d70f36cf97ee03fa437c5ed603c1cf3bba0685bba5f7"
+    }
+   ]
+  }
+ ]
+}
