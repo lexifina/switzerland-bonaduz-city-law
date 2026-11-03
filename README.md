@@ -8,11 +8,39 @@ The text is in German, exactly as the municipality publishes it.
 
 ## What this repository holds
 
-1 act with 2 versions so far: the Gemeindeordnung (the municipality's charter) first, then the municipality's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. Agreements, concessions, directives and repealed acts are not included.
+29 acts with 36 versions so far: the Gemeindeordnung (the municipality's charter) first, then the municipality's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. Agreements, concessions, directives and repealed acts are not included.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
 | `1-1-1/` | Gemeindeverfassung (SRS 1.1-1) | 2 | oldest version available, then each consolidated version: 27 November 2022 to 1 January 2026 |
+| `1-1-2/` | Finanzkompetenzregelung (SRS 1.1-2) | 1 | as enacted, 30 March 2008 |
+| `1-2-1-offentlichkeitsgesetz/` | Gesetz über das Öffentlichkeitsprinzip (SRS 1.2-1) | 1 | as enacted, 1 January 2026 |
+| `1-2-2/` | Reglement über die Nutzung der digitalen Ortseingangstafel der Gemeinde Bonaduz (SRS 1.2-2) | 1 | as enacted, 1 May 2026 |
+| `1-6-1-entschadigungsgesetz/` | Gesetz über die Entschädigung von Behörden und Kommissionen (SRS 1.6-1) | 2 | oldest version available, then each consolidated version: 1 January 2023 to 1 January 2026 |
+| `1-7-1-pg/` | Personalgesetz (SRS 1.7-1) | 1 | one version (the oldest available), 1 August 2010 |
+| `4-2-1/` | Schulordnung Schule Bonaduz (SRS 4.2-1) | 2 | as enacted, then each consolidated version: 19 September 2013 to 1 January 2026 |
+| `4-2-2/` | Schulordnung Oberstufen-Schulverband Bonaduz Rhäzüns (SRS 4.2-2) | 1 | as enacted, 1 January 2026 |
+| `4-8-1/` | Reglement betreffend Unterstützung jugendfördernder Vereine (SRS 4.8-1) | 1 | as enacted, 1 July 2013 |
+| `5-1-1-polg/` | Polizeigesetz (SRS 5.1-1) | 2 | as enacted, then each consolidated version: 1 January 2023 to 1 December 2025 |
+| `5-1-2/` | Ordnungsbussenliste (SRS 5.1-2) | 1 | as enacted, 1 March 2026 |
+| `5-3-1-gemeindefuhrungsstab/` | Gesetz über die Katastrophenorganisation (SRS 5.3-1) | 1 | as enacted, 3 December 2008 |
+| `5-5-1/` | Feuerwehrgesetz (SRS 5.5-1) | 1 | as enacted, 1 January 2026 |
+| `5-5-1-1/` | Betriebsreglement der Feuerwehr Bonaduz Rhäzüns (SRS 5.5-1.1) | 1 | as enacted, 1 January 2026 |
+| `6-3-1/` | Steuergesetz (SRS 6.3-1) | 1 | one version (the oldest available), 2 December 2020 |
+| `6-4-1/` | Kanzleigebühren (SRS 6.4-1) | 2 | as enacted, then each consolidated version: 1 May 2021 to 1 January 2026 |
+| `6-6-1/` | Reglement für die Benutzung der Gemeindeanlagen (SRS 6.6-1) | 1 | as enacted, 24 January 2022 |
+| `6-6-2/` | Betriebskonzept Freizeitanlagen (SRS 6.6-2) | 1 | as enacted, 23 October 2023 |
+| `6-6-3/` | Benutzungsgebühren der Gemeindeanlagen (SRS 6.6-3) | 1 | as enacted, 24 January 2022 |
+| `6-8-1/` | Beschaffungsrichtlinien (SRS 6.8-1) | 1 | as enacted, 23 October 2023 |
+| `7-4-1-1/` | Erschliessungsgesetz (Wasserversorgung, Abwasserentsorgung, Verkehrsanlagen, Abfallbewirtschaftung, energetische Fördermassnahmen) (SRS 7.4.1-1) | 2 | as enacted, then each consolidated version: 1 January 2012 to 16 January 2026 |
+| `7-4-1-1-1-wasserversorgung-abwasserentsorgung-verkehrsanlagen-abfallbewirtschaftung-verwaltungs-und-kanzleigebuhren/` | Gebührenordnung (SRS 7.4.1-1.1) | 1 | one version (the oldest available), 8 July 2024 |
+| `7-6-1/` | Gesetz für das Befahren von Waldstrassen mit Motorfahrzeugen (SRS 7.6-1) | 1 | as enacted, 1 January 2021 |
+| `7-7-1/` | Verordnung betreffend Benutzung des Durchgangsplatzes für Schweizer Fahrende (SRS 7.7-1) | 2 | as enacted, then each consolidated version: 13 April 2015 to 1 March 2026 |
+| `7-7-2/` | Allgemeinverfügung Nutzung Schulareal (SRS 7.7-2) | 1 | as enacted, 4 October 2021 |
+| `8-2-1/` | Friedhof- und Bestattungsgesetz (SRS 8.2-1) | 1 | as enacted, 1 January 2016 |
+| `9-2-1/` | Alp- und Weideordnung (SRS 9.2-1) | 1 | as enacted, 1 July 1982 |
+| `9-5-1/` | Gastwirtschaftsgesetz der Gemeinde Bonaduz (SRS 9.5-1) | 1 | as enacted, 1 January 2009 |
+| `9-5-1-1/` | Verordnung zum Gastwirtschaftsgesetz (SRS 9.5-1.1) | 1 | as enacted, 1 April 2015 |
 
 ## Source
 

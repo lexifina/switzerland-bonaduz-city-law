@@ -1,5 +1,39 @@
 key,label,kind,title,enacted,published,in_force_days,commits,url
+crs-beschluss-1982-06-30,"CRS, Beschluss vom 1982-06-30",law,Alp- und Weideordnung,1982-06-30,,1982-07-01,1,
 crs-beschluss-2005-03-07,"CRS, Beschluss vom 2005-03-07",law,Gemeindeverfassung,2005-03-07,,,0,
-crs-beschluss-2008-03-30,"CRS, Beschluss vom 2008-03-30",law,"Änderung vom 30.03.2008 (CRS, Beschluss vom 2008-03-30)",2008-03-30,,,0,
+crs-beschluss-2008-03-11,"CRS, Beschluss vom 2008-03-11",law,Steuergesetz,2008-03-11,,,0,
+crs-beschluss-2008-03-30,"CRS, Beschluss vom 2008-03-30",law,"Änderung vom 30.03.2008 (CRS, Beschluss vom 2008-03-30)",2008-03-30,,2008-03-30,1,
+crs-beschluss-2008-06-10,"CRS, Beschluss vom 2008-06-10",law,Personalgesetz,2008-06-10,,,0,
+crs-beschluss-2008-12-03,"CRS, Beschluss vom 2008-12-03",law,Gastwirtschaftsgesetz der Gemeinde Bonaduz,2008-12-03,,2008-12-03 2009-01-01,2,
+crs-beschluss-2010-10-06,"CRS, Beschluss vom 2010-10-06",law,"Änderung vom 06.10.2010 (CRS, Beschluss vom 2010-10-06)",2010-10-06,,,0,
+crs-beschluss-2011-09-14,"CRS, Beschluss vom 2011-09-14",law,Gebührenordnung,2011-09-14,,2012-01-01,1,
+crs-beschluss-2012-12-05,"CRS, Beschluss vom 2012-12-05",law,"Änderung vom 05.12.2012 (CRS, Beschluss vom 2012-12-05)",2012-12-05,,,0,
+crs-beschluss-2013-06-03,"CRS, Beschluss vom 2013-06-03",law,Reglement betreffend Unterstützung jugendfördernder Vereine,2013-06-03,,2013-07-01,1,
+crs-beschluss-2013-09-11,"CRS, Beschluss vom 2013-09-11",law,Schulordnung Schule Bonaduz,2013-09-11,,2013-09-19,1,
+crs-beschluss-2013-12-04,"CRS, Beschluss vom 2013-12-04",law,"Änderung vom 04.12.2013 (CRS, Beschluss vom 2013-12-04)",2013-12-04,,,0,
+crs-beschluss-2015-04-01,"CRS, Beschluss vom 2015-04-01",law,Verordnung zum Gastwirtschaftsgesetz,2015-04-01,,2015-04-01,1,
+crs-beschluss-2015-04-13,"CRS, Beschluss vom 2015-04-13",law,Verordnung betreffend Benutzung des Durchgangsplatzes für Schweizer Fahrende,2015-04-13,,2015-04-13,1,
+crs-beschluss-2015-12-02,"CRS, Beschluss vom 2015-12-02",law,Friedhof- und Bestattungsgesetz,2015-12-02,,2016-01-01,1,
+crs-beschluss-2018-01-14,"CRS, Beschluss vom 2018-01-14",law,Gesetz über die Entschädigung von Behörden und Kommissionen,2018-01-14,,,0,
+crs-beschluss-2018-12-10,"CRS, Beschluss vom 2018-12-10",law,"Änderung vom 10.12.2018 (CRS, Beschluss vom 2018-12-10)",2018-12-10,,,0,
+crs-beschluss-2020-10-22,"CRS, Beschluss vom 2020-10-22",law,Gesetz für das Befahren von Waldstrassen mit Motorfahrzeugen,2020-10-22,,2021-01-01,1,
+crs-beschluss-2020-12-02,"CRS, Beschluss vom 2020-12-02",law,"Änderung vom 02.12.2020 (CRS, Beschluss vom 2020-12-02)",2020-12-02,,,0,
+crs-beschluss-2021-04-19,"CRS, Beschluss vom 2021-04-19",law,Kanzleigebühren,2021-04-19,,2021-05-01,1,
+crs-2026-06,CRS 2026-06,law,Allgemeinverfügung Nutzung Schulareal,2021-10-04,2021-10-04,2021-10-04,1,https://bonaduz.tlex.ch/api/de/change_documents/file_dictionaries/13/pdf_file
+crs-beschluss-2022-01-24,"CRS, Beschluss vom 2022-01-24",law,Benutzungsgebühren der Gemeindeanlagen,2022-01-24,,2022-01-24,2,
+crs-beschluss-2022-10-27,"CRS, Beschluss vom 2022-10-27",law,Polizeigesetz,2022-10-27,,2023-01-01,1,
 crs-beschluss-2022-11-27,"CRS, Beschluss vom 2022-11-27",law,"Änderung vom 27.11.2022 (CRS, Beschluss vom 2022-11-27)",2022-11-27,,,0,
+crs-beschluss-2023-10-23,"CRS, Beschluss vom 2023-10-23",law,Beschaffungsrichtlinien,2023-10-23,,2023-10-23,2,
+crs-beschluss-2024-05-28,"CRS, Beschluss vom 2024-05-28",law,"Änderung vom 28.05.2024 (CRS, Beschluss vom 2024-05-28)",2024-05-28,,,0,
+crs-2025-01,CRS 2025-01,law,Änderung Art. 29 Feuerwerksverbot,2025-09-15,2025-11-27,2025-12-01,1,https://bonaduz.tlex.ch/api/de/change_documents/file_dictionaries/2/pdf_file
+crs-2025-02,CRS 2025-02,law,Änderung der Pensen,2025-09-15,2025-11-27,2026-01-01,1,https://bonaduz.tlex.ch/api/de/change_documents/file_dictionaries/3/pdf_file
+crs-2025-08,CRS 2025-08,law,Anpassung Kanzleigebühren per 1.1.2026,2025-12-03,2025-12-04,2026-01-01,1,https://bonaduz.tlex.ch/api/de/change_documents/file_dictionaries/4/pdf_file
+crs-2025-09,CRS 2025-09,law,Gesetz über das Öffentlichkeitsprinzip (Öffentlichkeitsgesetz),2025-09-15,2026-01-01,2026-01-01,1,https://bonaduz.tlex.ch/api/de/change_documents/file_dictionaries/12/pdf_file
 crs-2025-03,CRS 2025-03,law,"Gemeindeverfassung, Teilrevision (Aufhebung von Artikel 22)",2025-11-30,2026-01-01,2026-01-01,1,https://bonaduz.tlex.ch/api/de/change_documents/file_dictionaries/8/pdf_file
+crs-2025-04,CRS 2025-04,law,Erschliessungsgesetz - Referendumsauflage,2025-12-03,2026-01-13,2026-01-01 2026-01-16,2,https://bonaduz.tlex.ch/api/de/change_documents/file_dictionaries/7/pdf_file
+crs-2026-02,CRS 2026-02,law,Feuerwehrgesetz - Referendumsauflage,2025-12-03,2026-01-13,2026-01-01,1,https://bonaduz.tlex.ch/api/de/change_documents/file_dictionaries/6/pdf_file
+crs-2026-03,CRS 2026-03,law,Schulordnung Oberstufen-Schulverband Bonaduz Rhäzüns - Referendumsauflage,2025-12-03,2026-01-13,2026-01-01,1,https://bonaduz.tlex.ch/api/de/change_documents/file_dictionaries/9/pdf_file
+crs-2026-04,CRS 2026-04,law,5.5-1-1 Totalrevision Betriebsreglement Feuerwehr,2026-02-02,2026-02-02,2026-01-01,1,https://bonaduz.tlex.ch/api/de/change_documents/file_dictionaries/10/pdf_file
+crs-2026-05,CRS 2026-05,law,Ordnungsbussenliste,2026-03-02,2026-03-01,2026-03-01,1,https://bonaduz.tlex.ch/api/de/change_documents/file_dictionaries/11/pdf_file
+crs-2026-07,CRS 2026-07,law,Teilrevision Verordnung Fahrende,2026-03-02,2026-03-02,2026-03-01,1,https://bonaduz.tlex.ch/api/de/change_documents/file_dictionaries/14/pdf_file
+crs-2026-08,CRS 2026-08,law,Reglement über die Nutzung der digitalen Ortseingangstafel der Gemeinde Bonaduz,2026-04-27,2026-04-28,2026-05-01,1,https://bonaduz.tlex.ch/api/de/change_documents/file_dictionaries/17/pdf_file

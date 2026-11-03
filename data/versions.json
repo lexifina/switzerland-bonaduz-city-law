@@ -20,6 +20,434 @@
      "sha256": "fb5d69ace886cae328d5d70f36cf97ee03fa437c5ed603c1cf3bba0685bba5f7"
     }
    ]
+  },
+  {
+   "slug": "1-1-2",
+   "short": "SRS 1.1-2",
+   "title": "Finanzkompetenzregelung",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/1.1-2",
+   "versions": [
+    {
+     "from": "2008-03-30",
+     "units": 8,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/1.1-2",
+     "sha256": "e1f2c0929633aaf7fb4995847c6cd64f0f0b364b4a32bf379aa8f3c637a32139"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-1-offentlichkeitsgesetz",
+   "short": "Öffentlichkeitsgesetz",
+   "title": "Gesetz über das Öffentlichkeitsprinzip",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/1.2-1",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 10,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/1.2-1",
+     "sha256": "8933c1e1ff673954ef349797590ebfbf13b8640142db8bba92e90acb74b29175"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-2",
+   "short": "SRS 1.2-2",
+   "title": "Reglement über die Nutzung der digitalen Ortseingangstafel der Gemeinde Bonaduz",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/1.2-2",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 11,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/1.2-2",
+     "sha256": "1abcc9b92df48e6b206380d6e91f2f2ff44098730f8b756f10304c04c46bfbf0"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-entschadigungsgesetz",
+   "short": "Entschädigungsgesetz",
+   "title": "Gesetz über die Entschädigung von Behörden und Kommissionen",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/1.6-1",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 9,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/1.6-1/versions/78",
+     "sha256": "db037e4031a6fe976721717c6ce140bbe0d409f418e85c4c16effd92041148bb"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 9,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/1.6-1",
+     "sha256": "fc1b6e06b2359ce14c22f67c016676c940d8870ef941f7f55e96d2ad611e6623"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-pg",
+   "short": "PG",
+   "title": "Personalgesetz",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/1.7-1",
+   "versions": [
+    {
+     "from": "2010-08-01",
+     "units": 38,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/1.7-1",
+     "sha256": "47d70d21e7539f02b485dd8b9b912bd677c4d445042fcce03bbe1e92f63af618"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1",
+   "short": "SRS 4.2-1",
+   "title": "Schulordnung Schule Bonaduz",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/4.2-1",
+   "versions": [
+    {
+     "from": "2013-09-19",
+     "units": 10,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/4.2-1/versions/80",
+     "sha256": "35b76e6815e26a1748ee955c95bb17453763a0258dcb4748ede355edd1e5c41a"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 17,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/4.2-1",
+     "sha256": "92ca68301649a604f6b0f464611ef07adae49f5633460694de732631106ec126"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-2",
+   "short": "SRS 4.2-2",
+   "title": "Schulordnung Oberstufen-Schulverband Bonaduz Rhäzüns",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/4.2-2",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 16,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/4.2-2",
+     "sha256": "30fa598813dadf2021eccadb98192a25f6fd74fd1623c6f456e14e8482e6beb6"
+    }
+   ]
+  },
+  {
+   "slug": "4-8-1",
+   "short": "SRS 4.8-1",
+   "title": "Reglement betreffend Unterstützung jugendfördernder Vereine",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/4.8-1",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 6,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/4.8-1",
+     "sha256": "4e5e3b05202197353a4cbb79c2157312e1e4e8de3a66b7bcd6498957a304be51"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-1-polg",
+   "short": "PolG",
+   "title": "Polizeigesetz",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/5.1-1",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 46,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/5.1-1/versions/90",
+     "sha256": "deff6884ee04604b9c424b8b7706f2a7d89f79c1fcd71b59a1d08a40c0db8408"
+    },
+    {
+     "from": "2025-12-01",
+     "units": 45,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/5.1-1",
+     "sha256": "8417a7e99c72ebcb252e21ef6cea3ab6b4f3de452e48fb27e538065a6df823e0"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-2",
+   "short": "SRS 5.1-2",
+   "title": "Ordnungsbussenliste",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/5.1-2",
+   "versions": [
+    {
+     "from": "2026-03-01",
+     "units": 2,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/5.1-2",
+     "sha256": "e42c053231798f9cff0a0b6d9494558df774298b6c3feec8f36b8bca6adfb2c6"
+    }
+   ]
+  },
+  {
+   "slug": "5-3-1-gemeindefuhrungsstab",
+   "short": "Gemeindeführungsstab",
+   "title": "Gesetz über die Katastrophenorganisation",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/5.3-1",
+   "versions": [
+    {
+     "from": "2008-12-03",
+     "units": 16,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/5.3-1",
+     "sha256": "56323482810d579cbfdeb5aeb6adbc56e096ddc9fed11dc40ee4da929ae9b8e9"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1",
+   "short": "SRS 5.5-1",
+   "title": "Feuerwehrgesetz",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/5.5-1",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 35,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/5.5-1",
+     "sha256": "3b789f19f0bc6d832fb89662015b4711523eb922d2e89d087eb3cec52a03cbae"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1-1",
+   "short": "SRS 5.5-1.1",
+   "title": "Betriebsreglement der Feuerwehr Bonaduz Rhäzüns",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/5.5-1.1",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 34,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/5.5-1.1",
+     "sha256": "19e224306a11ba4ef2fa7f16fe2d6ed390f95d2a396425001645ac0c28a650d4"
+    }
+   ]
+  },
+  {
+   "slug": "6-3-1",
+   "short": "SRS 6.3-1",
+   "title": "Steuergesetz",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/6.3-1",
+   "versions": [
+    {
+     "from": "2020-12-02",
+     "units": 17,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/6.3-1",
+     "sha256": "8f3caca0b7708a3e1fcf8d3ef2feaeed996b228dda0b8093a14f9d73a6e9d2c2"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1",
+   "short": "SRS 6.4-1",
+   "title": "Kanzleigebühren",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/6.4-1",
+   "versions": [
+    {
+     "from": "2021-05-01",
+     "units": 2,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/6.4-1/versions/33",
+     "sha256": "e0d26a3f7d6074b1af8dc0ad79337b73a2cd9e379fefdc8505e217c0e1c14182"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 2,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/6.4-1",
+     "sha256": "3f6d247cbd92c16fde9c2fd67c7e2119bf7cef54431e63392513898e9884d462"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1",
+   "short": "SRS 6.6-1",
+   "title": "Reglement für die Benutzung der Gemeindeanlagen",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/6.6-1",
+   "versions": [
+    {
+     "from": "2022-01-24",
+     "units": 15,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/6.6-1",
+     "sha256": "a03bf8925e25b08be0dd9fb54129c88705113b1e770bf450b6aba4fb4225e6ae"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-2",
+   "short": "SRS 6.6-2",
+   "title": "Betriebskonzept Freizeitanlagen",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/6.6-2",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 26,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/6.6-2",
+     "sha256": "dc98ee5cc702d542ee0a859a3f53195bade2f25b080923bd139132222c9c7c37"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-3",
+   "short": "SRS 6.6-3",
+   "title": "Benutzungsgebühren der Gemeindeanlagen",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/6.6-3",
+   "versions": [
+    {
+     "from": "2022-01-24",
+     "units": 9,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/6.6-3",
+     "sha256": "d1d8b3f9ad2eae76d74ec59a5cdd7b42e0e03e1d211ac2003c4727f0a37ffc4b"
+    }
+   ]
+  },
+  {
+   "slug": "6-8-1",
+   "short": "SRS 6.8-1",
+   "title": "Beschaffungsrichtlinien",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/6.8-1",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 7,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/6.8-1",
+     "sha256": "f02a8d83639a0c7c9f39901ee8a2c4f66241e9374f1457d0d72802a1b387b37a"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-1-1",
+   "short": "SRS 7.4.1-1",
+   "title": "Erschliessungsgesetz (Wasserversorgung, Abwasserentsorgung, Verkehrsanlagen, Abfallbewirtschaftung, energetische Fördermassnahmen)",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/7.4.1-1",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 73,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/7.4.1-1/versions/82",
+     "sha256": "9e29c87c51bdc94fd53f86ef38b44979e612e7f408f6cf31ac76c55f9e704bce"
+    },
+    {
+     "from": "2026-01-16",
+     "units": 74,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/7.4.1-1",
+     "sha256": "9640b635ec597ee12ca6a4d714aa932e513ee04e2b71ac03e99f9ba313366718"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-1-1-1-wasserversorgung-abwasserentsorgung-verkehrsanlagen-abfallbewirtschaftung-verwaltungs-und-kanzleigebuhren",
+   "short": "Wasserversorgung, Abwasserentsorgung, Verkehrsanlagen, Abfallbewirtschaftung, Verwaltungs- und Kanzleigebühren",
+   "title": "Gebührenordnung",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/7.4.1-1.1",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 13,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/7.4.1-1.1",
+     "sha256": "fb1cf36dee30cba9ca4e308b4f96044e0281b390c30061f7a5094ee80d644cec"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-1",
+   "short": "SRS 7.6-1",
+   "title": "Gesetz für das Befahren von Waldstrassen mit Motorfahrzeugen",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/7.6-1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 9,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/7.6-1",
+     "sha256": "f676f024d8c7e0c105b814cb7ced18a6b86acfd9437633d53e6aeccf9f60a285"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1",
+   "short": "SRS 7.7-1",
+   "title": "Verordnung betreffend Benutzung des Durchgangsplatzes für Schweizer Fahrende",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/7.7-1",
+   "versions": [
+    {
+     "from": "2015-04-13",
+     "units": 10,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/7.7-1/versions/50",
+     "sha256": "10043308c76529ad8b49073db18ead114d56750b25e3837fa2dc9ab14d04911c"
+    },
+    {
+     "from": "2026-03-01",
+     "units": 12,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/7.7-1",
+     "sha256": "6d1f2c6c80571de2f6c8d554c53a6caaeef30bd8f1758bd9a974ae1f94b61422"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-2",
+   "short": "SRS 7.7-2",
+   "title": "Allgemeinverfügung Nutzung Schulareal",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/7.7-2",
+   "versions": [
+    {
+     "from": "2021-10-04",
+     "units": 5,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/7.7-2",
+     "sha256": "b4e292f74c9054c3c03fcb4d350bf79dd3efc737c956c44c176a56f318b752d8"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1",
+   "short": "SRS 8.2-1",
+   "title": "Friedhof- und Bestattungsgesetz",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/8.2-1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 24,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/8.2-1",
+     "sha256": "8dc6e01e10cc97e8cc3258a9da4080b78f961c4dceb30672934cca6bcf932ebc"
+    }
+   ]
+  },
+  {
+   "slug": "9-2-1",
+   "short": "SRS 9.2-1",
+   "title": "Alp- und Weideordnung",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/9.2-1",
+   "versions": [
+    {
+     "from": "1982-07-01",
+     "units": 21,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/9.2-1",
+     "sha256": "18162c7e38ef7f48335bf91578adccc57423af1197713b86f973e900d8932d01"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-1",
+   "short": "SRS 9.5-1",
+   "title": "Gastwirtschaftsgesetz der Gemeinde Bonaduz",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/9.5-1",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 22,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/9.5-1",
+     "sha256": "073cd0393fd372976f66a5ee702d3ea0bdc24e52a5d713f649adc69f83166881"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-1-1",
+   "short": "SRS 9.5-1.1",
+   "title": "Verordnung zum Gastwirtschaftsgesetz",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/9.5-1.1",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 5,
+     "source_url": "https://bonaduz.tlex.ch/api/de/texts_of_law/9.5-1.1",
+     "sha256": "2dd1200c845b09654df377f94a9075809cde06513736761b12cacac4e8095496"
+    }
+   ]
   }
  ]
 }
