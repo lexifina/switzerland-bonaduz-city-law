@@ -1,0 +1,50 @@
+{
+ "parts": {
+  "10-verfassung.json": {
+   "acts": [
+    "1-1-1"
+   ],
+   "sha256": "b383d62adf1b8af51f39b43610fdc608e8031dcedb3f48f0ba7d9ca081d8322c"
+  },
+  "40-verordnungen-1.json": {
+   "acts": [
+    "1-1-2",
+    "1-2-1-offentlichkeitsgesetz",
+    "1-2-2",
+    "1-6-1-entschadigungsgesetz",
+    "1-7-1-pg",
+    "4-2-1",
+    "4-2-2",
+    "4-8-1",
+    "5-1-1-polg",
+    "5-1-2",
+    "5-3-1-gemeindefuhrungsstab",
+    "5-5-1",
+    "5-5-1-1",
+    "6-3-1",
+    "6-4-1",
+    "6-6-1",
+    "6-6-2",
+    "6-6-3",
+    "6-8-1",
+    "7-4-1-1",
+    "7-4-1-1-1-wasserversorgung-abwasserentsorgung-verkehrsanlagen-abfallbewirtschaftung-verwaltungs-und-kanzleigebuhren",
+    "7-6-1",
+    "7-7-1",
+    "7-7-2",
+    "8-2-1",
+    "9-2-1",
+    "9-5-1",
+    "9-5-1-1"
+   ],
+   "sha256": "93c775d0501c9d943e5eb18f0a3257532342ee4656e83dc4c5e26d582cb99916"
+  },
+  "50-q820-baugesetz.json": {
+   "acts": [
+    "7-1-1"
+   ],
+   "sha256": "d55dcdd139406f645cc1abb4283ddf12182436679221d2fa23495d0f914e75df"
+  }
+ },
+ "schema": 1
+}

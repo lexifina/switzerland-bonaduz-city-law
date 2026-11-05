@@ -8,7 +8,7 @@ The text is in German, exactly as the municipality publishes it.
 
 ## What this repository holds
 
-29 acts with 36 versions so far: the Gemeindeordnung (the municipality's charter) first, then the municipality's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. Agreements, concessions, directives and repealed acts are not included.
+30 acts with 37 versions: the Gemeindeordnung (the municipality's charter) first, then the municipality's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. All 30 acts listed as in force in the municipality's collection on 5 November 2026 are represented. Repealed acts are not included.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -32,6 +32,7 @@ The text is in German, exactly as the municipality publishes it.
 | `6-6-2/` | Betriebskonzept Freizeitanlagen (SRS 6.6-2) | 1 | as enacted, 23 October 2023 |
 | `6-6-3/` | Benutzungsgebühren der Gemeindeanlagen (SRS 6.6-3) | 1 | as enacted, 24 January 2022 |
 | `6-8-1/` | Beschaffungsrichtlinien (SRS 6.8-1) | 1 | as enacted, 23 October 2023 |
+| `7-1-1/` | Baugesetz (SRS 7.1-1) | 1 | current consolidated text, oldest version available, 4 April 2023 |
 | `7-4-1-1/` | Erschliessungsgesetz (Wasserversorgung, Abwasserentsorgung, Verkehrsanlagen, Abfallbewirtschaftung, energetische Fördermassnahmen) (SRS 7.4.1-1) | 2 | as enacted, then each consolidated version: 1 January 2012 to 16 January 2026 |
 | `7-4-1-1-1-wasserversorgung-abwasserentsorgung-verkehrsanlagen-abfallbewirtschaftung-verwaltungs-und-kanzleigebuhren/` | Gebührenordnung (SRS 7.4.1-1.1) | 1 | one version (the oldest available), 8 July 2024 |
 | `7-6-1/` | Gesetz für das Befahren von Waldstrassen mit Motorfahrzeugen (SRS 7.6-1) | 1 | as enacted, 1 January 2021 |
@@ -55,7 +56,7 @@ The SRS (systematic collection) of the municipality, published by the municipali
 
 ## Files
 
-`<act>/art-005.md` is Art. 5 (or § 5), `art-005a.md` Art. 5a; `ingress.md` holds the title, date and preamble; `gliederung.md` the section headings; `schluss.md` the closing formula and signatures. One paragraph or list item per line. Amendment markers (`*`), footnote numbers and the "Stand" date are left out.
+`<act>/art-005.md` is Art. 5 (or § 5), `art-005a.md` Art. 5a; `ingress.md` holds the title, date and preamble; `gliederung.md` the section headings; `schluss.md` the closing formula and signatures. One paragraph or list item per line. The Baugesetz is held in `7-1-1/text.md` as one complete current-text file, including its contents and amendment table; its zoning table is rendered as text from the official PDF's text and accessibility fields. No OCR is used for this act. The collection dates the current version to 4 April 2023 and records an informal correction on 16 February 2026. Amendment markers (`*`), footnote numbers and the "Stand" date are left out.
 
 ## How it is checked
 

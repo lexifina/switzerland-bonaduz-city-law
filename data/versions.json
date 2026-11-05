@@ -448,6 +448,20 @@
      "sha256": "2dd1200c845b09654df377f94a9075809cde06513736761b12cacac4e8095496"
     }
    ]
+  },
+  {
+   "slug": "7-1-1",
+   "short": "SRS 7.1-1",
+   "title": "Baugesetz",
+   "url": "https://bonaduz.tlex.ch/app/de/texts_of_law/7.1-1",
+   "versions": [
+    {
+     "from": "2023-04-04",
+     "units": 1,
+     "source_url": "https://bonaduz.tlex.ch/api/de/versions/111/pdf_file",
+     "sha256": "c0ac188b4e5114268746f40f844ede87fdfdd2e24bcd05c8c8a7d351a71b1c8e"
+    }
+   ]
   }
  ]
 }
