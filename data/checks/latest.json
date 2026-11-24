@@ -1,0 +1,77 @@
+{
+ "generated": "2026-11-24T12:02:32Z",
+ "latest": {
+  "lexwork-bonaduz-city|switzerland/graubunden/bonaduz/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 5,
+    "match_old": 0,
+    "method": "the collection's PDF of the act's current version (its pdf_link, a second rendering of the same text), its words against the words of the version held here (97% or more found = agrees)",
+    "sampled": 5,
+    "unreadable": 0
+   },
+   "census": {
+    "checked": 5,
+    "current": 29,
+    "gone": 0,
+    "held": 29,
+    "not_at_source": 1,
+    "out_of_scope": 0,
+    "pending": 1,
+    "repo": 29,
+    "source_in_scope": 30
+   },
+   "check_id": "ch-lexwork-bonaduz-city-20261124T120202Z",
+   "commits": null,
+   "corpus": "switzerland/graubunden/bonaduz/acts",
+   "error": null,
+   "finished": "2026-11-24T12:02:32Z",
+   "flags": [],
+   "gap": 1,
+   "note": "bonaduz.tlex.ch: index of 30 acts (30 in force); held 29; 1 in force and in scope not held yet, 0 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 5 held acts compared with the collection this check (every one within 7 days); 1 candidate acts read",
+   "outcome": "changed",
+   "published": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 20,
+   "runner": "lawwatch switzerland (5f59fe7c67)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [
+     "7.1-1"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "30 entries, 30 in force (bonaduz.tlex.ch)",
+   "source": "lexwork-bonaduz-city",
+   "started": "2026-11-24T12:02:02Z",
+   "unexplained": 0,
+   "update": {
+    "left_for_next_check": 0,
+    "letters_check_dropped": {},
+    "new": 0,
+    "nothing_new": 0,
+    "parts": [],
+    "pdf_only": 1,
+    "re_read": 0,
+    "unreadable": 0
+   },
+   "verify": {
+    "cycle_days": 7,
+    "examples": [],
+    "held": 29,
+    "method": "each act compared this check (5 of 29: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from bonaduz.tlex.ch (the act document and each version by id), parsed by the builder (ch_cantons.parse_act), and compared version by version, letters and digits of every unit, with the corpus this repository is built from; the corpus's newest version rendered by the builder (gitlaw_common) and compared with the files at the tip of main. A difference is re-read and corrected by the next check's update (Kind: correction)",
+    "ok": true,
+    "swept": 5,
+    "versions_checked": 7,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}
