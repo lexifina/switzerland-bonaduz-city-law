@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T12:02:32Z",
+ "generated": "2026-11-25T08:26:40Z",
  "latest": {
   "lexwork-bonaduz-city|switzerland/graubunden/bonaduz/acts": {
    "attempt": 1,
@@ -19,37 +19,35 @@
     "held": 29,
     "not_at_source": 1,
     "out_of_scope": 0,
-    "pending": 1,
+    "pending": 0,
     "repo": 29,
-    "source_in_scope": 30
+    "source_in_scope": 29
    },
-   "check_id": "ch-lexwork-bonaduz-city-20261124T120202Z",
+   "check_id": "ch-lexwork-bonaduz-city-20261125T070218Z",
    "commits": null,
    "corpus": "switzerland/graubunden/bonaduz/acts",
    "error": null,
-   "finished": "2026-11-24T12:02:32Z",
+   "finished": "2026-11-25T07:02:39Z",
    "flags": [],
    "gap": 1,
-   "note": "bonaduz.tlex.ch: index of 30 acts (30 in force); held 29; 1 in force and in scope not held yet, 0 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 5 held acts compared with the collection this check (every one within 7 days); 1 candidate acts read",
-   "outcome": "changed",
+   "note": "bonaduz.tlex.ch: index of 30 acts (30 in force); held 29; 0 in force and in scope not held yet, 0 out of scope (land-use plans, concessions, directives, forms: as the builder), 1 published only as PDF; 5 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
+   "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 20,
-   "runner": "lawwatch switzerland (5f59fe7c67)",
+   "requests": 18,
+   "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "7.1-1"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "30 entries, 30 in force (bonaduz.tlex.ch)",
    "source": "lexwork-bonaduz-city",
-   "started": "2026-11-24T12:02:02Z",
+   "started": "2026-11-25T07:02:18Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -57,7 +55,7 @@
     "new": 0,
     "nothing_new": 0,
     "parts": [],
-    "pdf_only": 1,
+    "pdf_only": 0,
     "re_read": 0,
     "unreadable": 0
    },
@@ -65,7 +63,9 @@
     "cycle_days": 7,
     "examples": [],
     "held": 29,
-    "method": "each act compared this check (5 of 29: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from bonaduz.tlex.ch (the act document and each version by id), parsed by the builder (ch_cantons.parse_act), and compared version by version, letters and digits of every unit, with the corpus this repository is built from; the corpus's newest version rendered by the builder (gitlaw_common) and compared with the files at the tip of main. A difference is re-read and corrected by the next check's update (Kind: correction)",
+    "method": "each act compared this check (5 of 29: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from bonaduz.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
+    "not_compared": {},
+    "not_compared_why": null,
     "ok": true,
     "swept": 5,
     "versions_checked": 7,

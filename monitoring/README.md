@@ -6,18 +6,19 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Bonaduz: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-24 12:02 UTC, Bonaduz: Systematische Sammlung (bonaduz.tlex.ch): 20 Adressen gelesen; 1 hinzugefügt, 0 geändert, 0 entfernt; Änderungen gefunden; 1 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-25 07:02 UTC, Bonaduz: Systematische Sammlung (bonaduz.tlex.ch): 18 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 1 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Bonaduz: Systematische Sammlung (bonaduz.tlex.ch)](https://bonaduz.tlex.ch/) | `<act>/` | täglich | 2026-11-24 12:02 UTC | Änderungen gefunden | beobachtet |
+| [Bonaduz: Systematische Sammlung (bonaduz.tlex.ch)](https://bonaduz.tlex.ch/) | `<act>/` | täglich | 2026-11-25 07:02 UTC | keine Änderung | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-25 07:02](checks/2026-11.md#ch-lexwork-bonaduz-city-20261125t070218z) | lexwork-bonaduz-city | 18 | 0 | 0 | 0 | 1 (0) | keine Änderung | — |
 | [2026-11-24 12:02](checks/2026-11.md#ch-lexwork-bonaduz-city-20261124t120202z) | lexwork-bonaduz-city | 20 | 1 | 0 | 0 | 1 (0) | Änderungen gefunden | — |
 
 ## Selbst prüfen
