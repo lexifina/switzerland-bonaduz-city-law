@@ -8,7 +8,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Bonaduz: systematic collection (bonaduz.tlex.ch) · `switzerland/graubunden/bonaduz/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-25 07:02 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-26 06:31 UTC**.
 - Acts held here: 29; current at the source: 29; changed at the source since the version held here: 0; no longer at the source: 0.
 - Compared with the source in this read: 5 of the 29 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 1 (held here, no longer at the source: 1); with no reason: 0.
