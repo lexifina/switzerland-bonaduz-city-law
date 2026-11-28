@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T07:12:17Z",
+ "generated": "2026-11-28T08:34:40Z",
  "latest": {
   "lexwork-bonaduz-city|switzerland/graubunden/bonaduz/acts": {
    "attempt": 1,
@@ -23,11 +23,11 @@
     "repo": 29,
     "source_in_scope": 29
    },
-   "check_id": "ch-lexwork-bonaduz-city-20261127T062743Z",
+   "check_id": "ch-lexwork-bonaduz-city-20261128T061849Z",
    "commits": null,
    "corpus": "switzerland/graubunden/bonaduz/acts",
    "error": null,
-   "finished": "2026-11-27T06:28:02Z",
+   "finished": "2026-11-28T06:19:09Z",
    "flags": [],
    "gap": 1,
    "note": "bonaduz.tlex.ch: index of 30 acts (30 in force); held 29; 0 in force and in scope not held yet, 0 out of scope (land-use plans, concessions, directives, forms: as the builder), 1 published only as PDF; 5 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
@@ -37,7 +37,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 17,
+   "requests": 18,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -47,7 +47,7 @@
    },
    "snapshot": "30 entries, 30 in force (bonaduz.tlex.ch)",
    "source": "lexwork-bonaduz-city",
-   "started": "2026-11-27T06:27:43Z",
+   "started": "2026-11-28T06:18:49Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -68,7 +68,7 @@
     "not_compared_why": null,
     "ok": true,
     "swept": 5,
-    "versions_checked": 6,
+    "versions_checked": 7,
     "versions_differ": 0
    }
   }
